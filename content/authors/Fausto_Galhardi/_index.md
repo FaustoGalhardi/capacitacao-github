@@ -2,8 +2,8 @@
 role: Fausto Galhardi 
 weight: 18
 email: "faustohsgalhardi@gmail.com"
-interests: Interesse em participar de publicações e artigos relacionados a Agronomia
--
+interests:
+- Interesse em participar de publicações e artigos relacionados a Agronomia
 -
 -
 -
