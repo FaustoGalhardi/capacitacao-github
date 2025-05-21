@@ -22,7 +22,7 @@ social:
   
 - icon: researchgate
   icon_pack: ai
-  link: seu researchgate # se você não tem exclua isso tudo
+  link: seu researchgate 
   
 - icon: github
   icon_pack: fab
@@ -30,7 +30,7 @@ social:
   
 - icon: linkedin-in
   icon_pack: fab
-  link:https://www.linkedin.com/in/fausto-galhardi-b63188276/
+  link: https://www.linkedin.com/in/fausto-galhardi-b63188276/
   
 user_groups:
 - Estudantes de Graduação
