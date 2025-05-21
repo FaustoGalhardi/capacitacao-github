@@ -14,7 +14,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'faustohsgalhardi@gmail.com'
+  link: "faustohsgalhardi@gmail.com"
   
 - icon: lattes
   icon_pack: ai
